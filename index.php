@@ -1,1 +1,3 @@
-<h1>test</h1>
+<?php 
+
+echo 'a googd php site';
