@@ -106,3 +106,9 @@ header a:visited , header a:link:hover {
 footer a{
     font-size: 18px;
 }
+
+@media only screen and (max-width: 600px) {
+  header {
+    Display:none;
+  }
+}
