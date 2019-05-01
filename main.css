@@ -14,7 +14,8 @@
    height: 100vh;
    position: relative;
    color: #ffffff;
-  
+      min-height: 500px;
+
 }
 .sub-main:first-of-type {
     background:rebeccapurple;
