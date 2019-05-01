@@ -118,7 +118,9 @@ display:none;
   header a {
     display:none;
   }
-    
+     header:hover a{
+        display:block;
+    }
     header i {
         display:block;  
         font-size: 22px;
@@ -126,7 +128,5 @@ display:none;
 }
     }
     
-     header:hover a{
-        display:block;
-    }
-}
+    
+
