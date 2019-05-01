@@ -115,4 +115,8 @@ i {
   header {
     display:none;
   }
+    
+    header a {
+    display:block;
+    }
 }
