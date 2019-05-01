@@ -111,12 +111,19 @@ i {
     margin:10px;
 
 }
+header i {
+display:none;
+}
 @media only screen and (max-width: 600px) {
-  header {
+  header a {
     display:none;
   }
     
-    header a {
+    header i {
+    display:block;
+    }
+    
+  header i:hover  header a {
     display:block;
     }
 }
